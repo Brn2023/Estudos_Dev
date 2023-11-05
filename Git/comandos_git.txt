@@ -1,0 +1,9 @@
+Comandos Git
+
+git status - verificar registros
+git add:
+ "." - digite um ponto se você quer adicionar todos arquivos 
+"nome do arquivo" - adicionar um arquivo em especifico 
+git commit - para enviar o arquivo
+git push - para salvar o arquivo na nuvem
+git pull - para modificar o arquivo em outro computador

@@ -1,0 +1,49 @@
+Comandos CMD:
+
+Tab: Auto-completar nomes de arquivos e pastas.
+Ctrl + C: Interrompe a execução do comando atual.
+Ctrl + Break: Interrompe a execução de um comando em andamento.
+Up Arrow / Down Arrow: Navega pelos comandos recentes.
+F7: Exibe histórico de comandos.
+F3: Repete o último comando.
+F2: Edita o comando atual.
+Comandos Básicos:
+
+help ou /?: Obtém ajuda para um comando específico.
+dir ou ls: Lista arquivos e diretórios no diretório atual.
+cd: Muda o diretório de trabalho.
+cls: Limpa a tela.
+exit: Fecha o prompt de comando.
+Manipulação de Arquivos e Diretórios:
+
+cd: Navegar entre diretórios.
+cd ..: Subir um diretório.
+dir ou ls: Listar arquivos e diretórios.
+md ou mkdir: Criar um diretório.
+copy: Copiar arquivos.
+move ou ren: Mover ou renomear arquivos.
+del ou erase: Excluir arquivos.
+rd ou rmdir: Excluir diretórios.
+Gestão de Processos:
+
+tasklist: Listar todos os processos em execução.
+taskkill: Encerrar um processo.
+Rede e Conectividade:
+
+ping: Testar a conectividade com um host.
+ipconfig: Exibir informações de configuração de rede.
+netstat: Exibir estatísticas de conexões de rede.
+nslookup: Realizar consultas de DNS.
+Trabalhando com Variáveis de Ambiente:
+
+set: Exibir todas as variáveis de ambiente.
+set VARIAVEL=valor: Definir uma variável de ambiente temporária.
+Agendamento de Tarefas:
+
+at: Agendar a execução de comandos em um horário específico.
+schtasks: Configurar e exibir tarefas agendadas.
+
+a: Habilita modo de edição
+Esc: Sair do modo edição
+:w - Salva
+:x - Sair
